@@ -3,5 +3,4 @@ Strategic data-driven Business Analyst with over 10 years of proven success deli
 
 I leverage JIRA to manage project backlogs, prioritize sprints, and track progress across multi-stakeholder environments, ensuring transparency and alignment from business requirements gathering through to delivery.
 With a track record of turning ambiguity into clarity and strategy into execution, I consistently deliver high-impact solutions that align business goals with measurable results making data not just available, but valuable.
-
-Technical Skills
+#Technical Skills
